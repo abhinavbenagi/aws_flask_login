@@ -38,28 +38,18 @@ if __name__=="__main__":
 ## Git commands:
 ```bash
 git init 
-```
-```bash
-create .gitignore file
-```
-```bash
+
+## create .gitignore file
+
 git status
-```
-```bash
 git add .
-```
-```bash
 git commit -m "first commit"
-```
-```bash
+
 git remote add origin https://github.com/abhinavbenagi/aws_flask_login.git
-```
-```bash
 git branch -M main
-```
-```bash
 git push -u origin main
 ```
+
 ## If you make any changes:
 ```bash
 git add .
